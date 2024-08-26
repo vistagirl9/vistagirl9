@@ -2,5 +2,5 @@
 - 👀 I’m interested in selfhosting and bypassing iDevices
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Jellyfin
-- 📫 How to reach me email! (vistagirllol@proton.me)
+- 📫 How to reach me: email! (vistagirllol@proton.me)
 - 😄 Pronouns: she/her
